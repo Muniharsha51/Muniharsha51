@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning front end web development
 - 💞️ I’m looking to collaborate on web desinging
-- 📫 you can reach me linkedin: www.linkedin.com/in/muni-harsha-a82841230 
+- 📫 you can reach me on linkedin: www.linkedin.com/in/muni-harsha-a82841230 
 
 <!---
 Muniharsha51/Muniharsha51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
